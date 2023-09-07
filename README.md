@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sami-m99////////////////////" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami-m99////////////////////" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sami-m99////////////////////" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami-m99////////////////////" height="30" width="40" /></a>
 <a href="https://kaggle.com/sami-m99//////////////////" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sami-m99//////////////////" height="30" width="40" /></a>
 <a href="https://instagram.com/sami-m99//////////////////" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sami-m99//////////////////" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sami-m99//////////////////" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sami-m99//////////////////" height="30" width="40" /></a>
