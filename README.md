@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Sami Al-Shami, a software engineer </div>  
   
-
+### Hi there 👋
 **I’m currently working on expanding my skills in full-stack development.**  
   
 
