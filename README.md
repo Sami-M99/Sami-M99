@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dezrmu4-0b463d5d-1c1f-463b-909b-6951227567a5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV6cm11NC0wYjQ2M2Q1ZC0xYzFmLTQ2M2ItOTA5Yi02OTUxMjI3NTY3YTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-vGTqcqLHyF_CBArxzrsOjtFV55EIjY2pxyEDVPrmBo" align="center" style="width: 100%" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dezrmu4-0b463d5d-1c1f-463b-909b-6951227567a5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV6cm11NC0wYjQ2M2Q1ZC0xYzFmLTQ2M2ItOTA5Yi02OTUxMjI3NTY3YTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-vGTqcqLHyF_CBArxzrsOjtFV55EIjY2pxyEDVPrmBo" align="center" style="width: 110%" />
 </div>  
 
 <h2 align="center">Hi <span><img src="https://raw.githubusercontent.com/UtkarshPathrabe/UtkarshPathrabe/main/assets/wave.gif"></span>, I'm Sami Al-Shami</h1>
-<h3 align="center">I am a passionate full-stack software engineer</h3>
+<h3 align="center">I Am A Passionate Software Engineer</h3>
 <br/>  
 
 - I’m currently working on **expanding my skills in full-stack development.**
@@ -32,3 +32,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-m99&show_icons=true&locale=en" alt="sami-m99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami-m99&" alt="sami-m99" /></p>
+
+<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami-m99&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=050505&locale=en&layout=compact" alt="sami-m99" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-m99&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=080808&hide_border=true&locale=en" alt="sami-m99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami-m99&theme=dark" alt="sami-m99" /></p>
