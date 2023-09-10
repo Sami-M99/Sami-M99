@@ -5,7 +5,7 @@
 <h1 align="center">Hi <span><img src="https://raw.githubusercontent.com/UtkarshPathrabe/UtkarshPathrabe/main/assets/wave.gif" height='28' alt='there'></span>, I'm Sami Al-Shami</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=386ACA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile;+I'm+a+Passionate+Full+Stack+Software+Engineer" alt="Typing SVG" /></a></p>
+<img src="https://camo.githubusercontent.com/e17c7bff1cd98f248737c58805cf2877fbb681f2da701d52a0fa7b67a435e16e/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d3232266475726174696f6e3d333030302670617573653d3130303026636f6c6f723d3338364143412663656e7465723d74727565267643656e7465723d74727565266d756c74696c696e653d747275652677696474683d363030266865696768743d313030266c696e65733d57656c636f6d652b746f2b6d792b4769744875622b50726f66696c653b2b49276d2b612b50617373696f6e6174652b46756c6c2b537461636b2b536f6674776172652b456e67696e656572" /></p>
 
 - I’m currently working on **expanding my skills in full-stack development.**
 
