@@ -7,8 +7,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=386ACA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile;+I'm+a+Passionate+Full+Stack+Software+Engineer" alt="Typing SVG" /></a></p>
 
-<br/>  
-
 - I’m currently working on **expanding my skills in full-stack development.**
 
 - I’m currently learning **react and next.js**
