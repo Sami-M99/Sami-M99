@@ -22,11 +22,11 @@
 
 <h3 align="left">Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="32px" /></h3>
 <p align="left">
-<a href="https://linkedin.com/in/sami-m99////////////////////" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami-m99////////////////////" height="30" width="40" /></a>
-<a href="https://kaggle.com/sami-m99//////////////////" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sami-m99//////////////////" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sami-m-248a8b290/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami-m" height="30" width="40" /></a>
+<a href="https://www.sololearn.com/profile/30166597" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="Sami Al-Shami" height="45" width="45" /></a>
 <a href="https://leetcode.com/Sami_Alshami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sami_Alshami" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Sami_M?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Sami_M" height="30" width="30" /></a>
-<a href="https://instagram.com/sami-m99//////////////////" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sami-m99//////////////////" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sami90sm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sami90sm" height="30" width="40" /></a>
 <a href="mailto:alshamiisami@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:alshamiisami@gmail.com" height="35" width="40" /></a>
 </p>
 
