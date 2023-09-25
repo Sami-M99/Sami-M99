@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dezrmu4-0b463d5d-1c1f-463b-909b-6951227567a5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV6cm11NC0wYjQ2M2Q1ZC0xYzFmLTQ2M2ItOTA5Yi02OTUxMjI3NTY3YTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-vGTqcqLHyF_CBArxzrsOjtFV55EIjY2pxyEDVPrmBo" align="center" style="width: 1000px" />
+<img src="./assets/landing.gif" align="center" style="width: 1000px" />
 </div>  
 
-<h1 align="center">Hi <span><img src="https://raw.githubusercontent.com/UtkarshPathrabe/UtkarshPathrabe/main/assets/wave.gif" height='28' alt='there'></span>, I'm Sami Al-Shami</h1>
+<h1 align="center">Hi <span><img src="./assets/hello.gif" height='28' alt='there'></span>, I'm Sami Al-Shami</h1>
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/e17c7bff1cd98f248737c58805cf2877fbb681f2da701d52a0fa7b67a435e16e/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d3232266475726174696f6e3d333030302670617573653d3130303026636f6c6f723d3338364143412663656e7465723d74727565267643656e7465723d74727565266d756c74696c696e653d747275652677696474683d363030266865696768743d313030266c696e65733d57656c636f6d652b746f2b6d792b4769744875622b50726f66696c653b2b49276d2b612b50617373696f6e6174652b46756c6c2b537461636b2b536f6674776172652b456e67696e656572" /></p>
@@ -36,14 +36,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami-m99&" alt="sami-m99" /></p>
 
-<img align="center" src="https://raw.githubusercontent.com/UtkarshPathrabe/UtkarshPathrabe/output/github-contribution-grid-snake-dark.svg" alt="image" />
+<img align="center" src="./assets/github-contribution-grid-snake-dark.svg" alt="image" />
 
 <br/>
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  <img src="./assets/JS.webp" width="100">
+   <img src="./assets/python.webp" width="100">
+   <img src="./assets/react.webp" width="100">
+   <img src="./assets/github.webp" width="100">
+   <img src="./assets/VS.webp" width="100"><br><br>
 </p>
 <br/>
