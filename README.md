@@ -36,7 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-m99&show_icons=true&locale=en" alt="sami-m99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami-m99&" alt="sami-m99" /></p>
 
 <img align="center" src="./assets/github-contribution-grid-snake-dark.svg" alt="image" />
 
